@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! My name is Nicolas Molina and I am currently working on Android - IOS developments👋
 
 <!--
 **njm181/njm181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
