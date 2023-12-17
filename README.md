@@ -1,5 +1,6 @@
 ### Hi there!👋
 My name is Nicolas Molina and I am currently working on Android - IOS developments 
+<br>
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 <!--
