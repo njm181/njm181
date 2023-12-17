@@ -1,4 +1,6 @@
-### Hi there! My name is Nicolas Molina and I am currently working on Android - IOS developments👋
+### Hi there!👋
+My name is Nicolas Molina and I am currently working on Android - IOS developments 
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 <!--
 **njm181/njm181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
