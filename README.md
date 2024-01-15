@@ -1,7 +1,7 @@
 ### Hi there and welcome to my Github profile!👋 
 <br>
 
-<img src="https://github.com/njm181/njm181/assets/42520564/e6ec09ed-12cd-4520-9378-72868855b5d2" height="250">
+<img src="https://github.com/njm181/njm181/assets/42520564/e6ec09ed-12cd-4520-9378-72868855b5d2" height="250" width="500">
 
 <br>
 My name is Nicolas Molina and I am currently working on Android - IOS developments.
