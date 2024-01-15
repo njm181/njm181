@@ -1,4 +1,9 @@
-### Hi there and welcome to my Github profile! 📱 💻<br>
+<div align="center">
+  <h1 align="center">
+    Hi there and welcome to my Github profile! 📱 💻
+  </h1>
+<div/>
+<br>
 
 <img src="https://github.com/njm181/njm181/assets/42520564/774a0f03-4ed3-4a44-8df4-ba16e4919094">
 
