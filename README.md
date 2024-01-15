@@ -11,7 +11,6 @@
 
 <div align="left">
 <h4>- 🔭 I’m currently working on Android and IOS development in a Fintech Company</h4>
-<br>
 <h4>- 🌱 I’m currently learning -> Androi | IOS | Kotlin Multiplatform </h4>
 </div>
 <br>
