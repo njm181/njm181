@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    Hi there and welcome to my Github profile! 📱 💻
+    Hi there and welcome to my profile! 📱 💻
   </h1>
 <div/>
 <br>
