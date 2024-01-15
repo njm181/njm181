@@ -1,4 +1,14 @@
 ### Hi there and welcome to my Github profile!👋 
+<br>
+
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/njm181/njm181/assets/42520564/e6ec09ed-12cd-4520-9378-72868855b5d2" alt=”my banner”>
+
+</p>
+
+
+<br>
 My name is Nicolas Molina and I am currently working on Android - IOS developments.
 <br>
 <br>
