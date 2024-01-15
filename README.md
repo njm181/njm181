@@ -1,6 +1,6 @@
 ### Hi there and welcome to my Github profile! 📱 💻<br>
 
-<img src="https://github.com/njm181/njm181/assets/42520564/774a0f03-4ed3-4a44-8df4-ba16e4919094" height="400">
+<img src="https://github.com/njm181/njm181/assets/42520564/774a0f03-4ed3-4a44-8df4-ba16e4919094">
 
 <br>
 - 🔭 I’m currently working on Android and IOS development in a Fintech Company
