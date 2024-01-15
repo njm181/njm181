@@ -1,9 +1,7 @@
 ### Hi there and welcome to my Github profile!👋 
 <br>
 
-<p align=”center”>
-<img src=”https://github.com/njm181/njm181/assets/42520564/e6ec09ed-12cd-4520-9378-72868855b5d2" width="900" height="250">
-</p>
+<img src="https://github.com/njm181/njm181/assets/42520564/e6ec09ed-12cd-4520-9378-72868855b5d2">
 
 
 <br>
