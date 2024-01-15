@@ -10,11 +10,9 @@
 <br>
 
 <div align="left">
-<h2>- 🔭 I’m currently working on Android and IOS development in a Fintech Company</h2>
-  
+<h4>- 🔭 I’m currently working on Android and IOS development in a Fintech Company</h4>
 <br>
-  
-<h2>- 🌱 I’m currently learning -> Androi | IOS | Kotlin Multiplatform </h2>
+<h4>- 🌱 I’m currently learning -> Androi | IOS | Kotlin Multiplatform </h4>
 </div>
 <br>
 
