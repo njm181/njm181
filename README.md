@@ -9,9 +9,10 @@
 
 <br>
 - 🔭 I’m currently working on Android and IOS development in a Fintech Company
+<br>
 - 🌱 I’m currently learning -> Androi | IOS | Kotlin Multiplatform 
 <br>
-<br>
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,swift)](https://skillicons.dev)
 
 <!--
